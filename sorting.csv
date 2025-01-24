@@ -1,0 +1,44 @@
+Algorithm,Array Size,Execution Time
+Bubble Sort,50,0.000000 
+Bubble Sort,100,0.000001
+Bubble Sort,200,0.001000
+Bubble Sort,500,0.006000
+Bubble Sort,1000,0.015000
+Bubble Sort,1500,0.016000
+Bubble Sort,2500,0.034000
+
+Optimized Bubble Sort,50,0.000000
+Optimized Bubble Sort,100,0.000000
+Optimized Bubble Sort,200,0.000000
+Optimized Bubble Sort,500,0.001000
+Optimized Bubble Sort,1000,0.002000 
+Optimized Bubble Sort,1500,0.005000
+Optimized Bubble Sort,2500,0.030000
+
+
+Gnome Sort,50,0.000000
+Gnome Sort,100,0.000000
+Gnome Sort,200,0.000000
+Gnome Sort,500,0.001000
+Gnome Sort,1000,0.005000
+Gnome Sort,1500, 0.007000 
+Gnome Sort,2500, 0.009000
+
+quick Sort,50,0.000000
+quick Sort,100,0.000000
+quick Sort,200,0.000000
+quick Sort,500,0.000000
+quick Sort,1000,0.000000
+quick Sort,1500, 0.001000 
+quick Sort,2500, 0.001000
+
+heap Sort,50,0.000000
+heap Sort,100,0.000000
+heap Sort,200,0.000000
+heap Sort,500,0.000000
+heap Sort,1000,0.000090
+heap Sort,1500, 0.001000 
+heap Sort,2500, 0.008000
+
+
+
