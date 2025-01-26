@@ -102,7 +102,7 @@ void sortAux(int A[], int n, int i)
     }
     /* pour T = {141,232,45,112,143}
     on aura dans count
-    count = {0, 1, 2, 1, 0, 1, 0, 0, 0, 0}§
+    count = {0, 1, 2, 1, 0, 1, 0, 0, 0, 0}
     dans ce cas on a pris le cas des unités
     */
 
