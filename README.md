@@ -7,6 +7,8 @@ Les tests de temps d'éxecution ont été fait sur des tableau de taille 50,100,
 Son principe est de comparer des paires d'éléments adjacents et en les échangeant s'ils sont dans le mauvais ordre. Ce processus est répété plusieurs fois jusqu'à ce que le tableau soit complètement trié
 
 Sa complexité est O (n²)
+
+
 ![alt text](<bubble sort.png>)
  ### Optimized bubble sort 
  c'est une version optimisé du Bubble sort 
